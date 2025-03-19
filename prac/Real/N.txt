@@ -1,9 +1,13 @@
 Hi there
 
 
+<<<<<<< HEAD
 N change
 
 
 changed Again
 
 Someone changed
+=======
+N change
+>>>>>>> parent of 2c53840 (Update 2.txt)
