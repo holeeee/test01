@@ -1,2 +1,0 @@
-subapp 입니다
-subapp prac
